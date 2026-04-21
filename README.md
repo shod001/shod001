@@ -73,7 +73,10 @@ shady@labib:~$ Full-Stack Developer | Open Source Lover | Linux User
 
 </div>
 
+> **How to enable the snake:** Go to your GitHub profile repo (`), create a GitHub Action with the workflow below 👇
 
+<details>
+<summary>📋 Snake workflow (click to expand)</summary>
 
 ```yaml
 # .github/workflows/snake.yml
