@@ -23,12 +23,12 @@ shady@labib:~$ Full-Stack Developer | Open Source Lover | Linux User
 -  I'm trying to build things for the web — from pixels to servers
 -  Daily driving **Linux** — because freedom matters
 -  Always exploring new tech across the stack
-- 
+
 
 
 ---
 
-## 🛠 Tech Stack ( maybe)
+## 🛠 Tech Stack (maybe)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -91,8 +91,3 @@ shady@labib:~$ Full-Stack Developer | Open Source Lover | Linux User
 
 *"First, take your coffee, then start ."* — ahmed elska
 
-<br/>
-
-![Visitor Count](https://profile-counter.glitch.me/shod001/count.svg)
-
-</div>
