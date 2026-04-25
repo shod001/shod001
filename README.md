@@ -20,15 +20,15 @@ $ whoami
 shady@labib:~$ Full-Stack Developer | Open Source Lover | Linux User
 ```
 
-- 🔭 I build things for the web — from pixels to servers
-- 🐧 Daily driving **Linux** — because freedom matters
-- 🌱 Always exploring new tech across the stack
-- ⚡ Passionate about clean code, performance & elegant solutions
-- 📍 Based in **Egypt** 🇪🇬
+-  I'm trying to build things for the web — from pixels to servers
+-  Daily driving **Linux** — because freedom matters
+-  Always exploring new tech across the stack
+- 
+
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack ( maybe)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -48,7 +48,7 @@ shady@labib:~$ Full-Stack Developer | Open Source Lover | Linux User
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (shit)
 
 <div align="center">
 
@@ -65,7 +65,6 @@ shady@labib:~$ Full-Stack Developer | Open Source Lover | Linux User
 
 ---
 
-## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -73,39 +72,6 @@ shady@labib:~$ Full-Stack Developer | Open Source Lover | Linux User
 
 </div>
 
-> **How to enable the snake:** Go to your GitHub profile repo (`), create a GitHub Action with the workflow below 👇
-
-<details>
-<summary>📋 Snake workflow (click to expand)</summary>
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
@@ -115,7 +81,7 @@ jobs:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shady-labib)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shod001)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shadyezra25@gmail.com)
 
 </div>
 
@@ -123,7 +89,7 @@ jobs:
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"First, take your coffee, then start ."* — ahmed elska
 
 <br/>
 
